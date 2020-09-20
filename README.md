@@ -1,4 +1,3 @@
-MentalHealthSystem
 The purpose of creating this project is to create awareness among people facing challeneges of any sort of mental health.
 
 We Created a website with all basic functionality and a chatbot is deployed which asks the guest user to take a small test having few different questions.
