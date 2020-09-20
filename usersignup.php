@@ -1,5 +1,5 @@
 <?php
-$con=$con=mysqli_connect("localhost","root","","mentalhealthsystem");
+$con=mysqli_connect("localhost","root","","mentalhealthsystem");
 if(!$con)
 {
  echo "database not connected";
@@ -18,7 +18,7 @@ if(isset($_POST['submit']))
  }
  else
  {
-  echo"data inserted";
+  echo"<script>alert('User Registered');window.location.href='userlogin.html';</script>";
  }
 }
 ?>
