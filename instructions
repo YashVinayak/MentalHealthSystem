@@ -1,0 +1,16 @@
+The backend work for this project is done via php
+Please download and install xampp server to view php files.Turn Apache and MySql On.
+Download the files from myrepository ,keep in a folder and name it as per your choice
+move this folder to c:/xampp/htdocs   
+Go to localhost/phpmyadmin  -->  Select database -->Set name for database as "mentalhealthsystem" and click Create
+Click import and and add mentalhealthsystem.sql file present in my repository
+In order to view the front end html work please refer to ---->  https://sparsh-lamba.github.io/MentalHealthSystem/index.html
+In order to see complete site, make sure Apache and MySql are started in xampp server.
+Next go to browser and type localhost/foldername       
+[folder name should be the one where all files from my repository have been downloaded and saved in C:/xampp/htdocs]
+
+Now you can run any php or html file of my repository using localhost.
+Username and password for user-login can be viewed from localhost/phpmyadmin after clicking on mentalhealthsystem databse
+Seperate tables are there for admin and user with login details in databse.
+
+ThankYou
